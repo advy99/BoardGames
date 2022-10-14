@@ -2,13 +2,14 @@
 
 Repositorio con recomendaciones de juegos de mesa. Una subsección por cada categoría.
 
-## Rol
+## Sistemas de Rol
 
 - Dungeons & Dragons
 
 ## Roles ocultos
 
 - La resistencia
+- Avalon
 - Bang!
 
 ## Estrategia
@@ -19,6 +20,10 @@ Repositorio con recomendaciones de juegos de mesa. Una subsección por cada cate
 
 - Puerto Rico
 
-## Juegos de cartas
+## Construcción de mazos
+
+- Dominion
+
+## Trading Card Games
 
 - Magic: The Gathering
