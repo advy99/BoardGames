@@ -6,12 +6,14 @@ Repositorio con recomendaciones de juegos de mesa. Una subsección por cada cate
 
 - Dungeons & Dragons
 - The Lord of the Rings: Journeys in Middle-earth
+- Vampire The Masquerade
 
 ## Roles ocultos
 
 - La resistencia
 - Avalon
 - Bang!
+- Coup
 
 ## Estrategia
 
@@ -28,3 +30,8 @@ Repositorio con recomendaciones de juegos de mesa. Una subsección por cada cate
 ## Trading Card Games
 
 - Magic: The Gathering
+
+## Filler Games
+
+- Love letters
+- The Mind
