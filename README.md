@@ -5,6 +5,7 @@ Repositorio con recomendaciones de juegos de mesa. Una subsección por cada cate
 ## Sistemas de Rol
 
 - Dungeons & Dragons
+- The Lord of the Rings: Journeys in Middle-earth
 
 ## Roles ocultos
 
