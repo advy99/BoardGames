@@ -19,6 +19,7 @@ Repositorio con recomendaciones de juegos de mesa. Una subsección por cada cate
 
 - Ajedrez
 - Root
+- Risk
 
 ## Gestión de recursos
 
